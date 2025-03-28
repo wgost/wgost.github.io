@@ -10,10 +10,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 08:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 08:25:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wgost.github.io/tags/%E4%B9%A6%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&lt;学生小字典&gt;的字体</title>
+      <link>https://wgost.github.io/2025/%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%97%E5%85%B8%E7%9A%84%E5%AD%97%E4%BD%93/</link>
+      <pubDate>Fri, 28 Mar 2025 08:25:00 +0000</pubDate>
+      
+      <guid>https://wgost.github.io/2025/%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%97%E5%85%B8%E7%9A%84%E5%AD%97%E4%BD%93/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;前几天看到一本小字典的残缺的影印版，从书脊略略知其名曰“学生小字典”，其余出版信息一概不知。翻阅的时候，让我奇怪的是这套书的字体问题。&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://wgost.github.io/images/zidian1.jpg&#34;&gt;
+128-129页
+&lt;/center&gt;
+&lt;p&gt;从这两页的内容来看，我们不难发现，如“業”、“極”、“榮”、“槍”等字，都以黑体字显示，而其他的字却以宋体（明体）显示。这让我有了第一个猜测：相同部首，笔画不同。&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://wgost.github.io/images/zidian2.jpg&#34;&gt;
+192页
+&lt;/center&gt;
+&lt;p&gt;但此页的内容推翻了我的猜测。比如“稼”和“稽”都是禾部十画的字，但它们的字体却不同。那么，会不会是因为字库不够呢？带着这个假设，我仔细一看，发现还是不对。&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://wgost.github.io/images/zidian3.jpg&#34;&gt;
+128页 “極” （解释文字中包含多个“極”字）
+&lt;/center&gt;
+&lt;p&gt;举“極”来说，该书解释道：“（ㄐㄧˊ 級）①到了窮盡的限度，[例]好極，極有道理。②最高的地方，[例]登峯造極。③地球的南北兩端，[例]南極，北極。”光是这段解释，就出现了5个“極”；而除了标题字是黑体外，其余皆是宋体（明体）。这就证明并非宋体（明体）字库中没有“極”，而是为了某些特殊原因，将其着重显示的。这样分析便很快知道答案了：因为这是一本学生字典，故着重的汉字是学生应当掌握的。其余的汉字，诸如“楫”、“楷”等，则是不要求学生掌握的。&lt;/p&gt;
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>萨满教的离魂体验绘画</title>
