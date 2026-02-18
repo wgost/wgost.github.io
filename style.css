@@ -1,0 +1,18 @@
+.post-title{font-size: 1.2rem}
+.post-content{
+	margin-top: 10px;
+}
+.post-meta{
+	font-size: 1rem;
+	margin-bottom: -15px;
+
+	@media ($phone) {
+	  font-size: .85rem;
+	}
+}
+.content {
+	margin-top: -1%;
+}
+body{
+	font-weight: normal;
+}
